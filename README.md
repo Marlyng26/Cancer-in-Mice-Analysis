@@ -13,3 +13,8 @@ The bar graph showed that the Drug Regimen Capomulin has the maximum mice number
 The correlation between mouse weight and average tumor volume is 0.84. It is a strong positive correlation; the average tumor volume also increases when the mouse weight increases.
 The regression analysis helped us understand how much the average tumor volume (dependent variable) will change when the weight of mice changes (independent variables). The R-squared value is 0.70, which means 70% of the model fits the data, which is pretty good to predict the data from the model. Higher R-squared values represent more minor differences between the observed data and the fitted value. 70% of the model explains all of the variations in the response variable around its mean.
 From the selected treatments Capomulin and Ramicane reduce the size of tumors better.
+
+
+
+
+The data obtain was very useful for this analysis. In the anlayis, boot camp training was necessary to formulate the codes necessary to obtain results. Data needed to be cleaned, related to data cleaning, the analysts has over one year experience. 
